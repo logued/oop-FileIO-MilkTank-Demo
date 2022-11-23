@@ -1,0 +1,3 @@
+Tank-A,2500
+Tank B,3000
+Tank C,1600
