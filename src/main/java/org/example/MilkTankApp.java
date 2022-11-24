@@ -17,6 +17,7 @@ import java.util.Scanner;
 public class MilkTankApp {
 
     public static void main(String[] args) {
+        System.out.println("In Main");
         MilkTankApp app = new MilkTankApp();
         app.start();
     }
